@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Springboot-JPA-CRUD-joins.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Springboot-JPA-CRUD-joins)
+
 ## Springboot-JPA-with-crud-and-join-operations
 
  This is a sample project in springboot and jpa(hibernate) using mysql database. 
